@@ -1,0 +1,32 @@
+img{
+    width: 100%;
+    border: #268d29 5px solid;
+    border-radius: 20px;
+}
+h1{
+    text-align: center;
+    font-size: 250%;
+    color: #4CAF50;
+}
+p{
+    font-size: 150%;
+    font-weight: 800;
+    margin: 20px;
+    text-align: center;
+    color: #d8cbcb;
+    padding-bottom: 100px;
+  }
+html{
+        background-color:black;
+    }
+#one{
+    font-size: 120%;
+    margin-top : -80px;
+    color:rgb(43, 70, 40);}
+div{
+    width:50%;
+    margin:auto;
+}
+#omni{
+    margin:-10px;  
+}
